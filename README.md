@@ -1,5 +1,6 @@
 # ImranaGlobalTech-BoomLtd-Inventory_Data_Cleaning
 Data Cleaning &amp; Quality Improvement – Inventory Dataset
+
 Project Overview:
 This project focused on cleaning and standardizing a raw product inventory dataset with multiple data quality issues.
 
